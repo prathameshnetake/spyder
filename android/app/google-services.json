@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796994424025",
+    "firebase_url": "https://spyder-4c5ba.firebaseio.com",
+    "project_id": "spyder-4c5ba",
+    "storage_bucket": "spyder-4c5ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796994424025:android:d97197af67efe83e",
+        "android_client_info": {
+          "package_name": "com.spyder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796994424025-24hk45pncoi9tobonvm5pg1l8021eekr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmsiuydnQ1H1Ex3UAL_SlSVjbHFKh-Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796994424025-24hk45pncoi9tobonvm5pg1l8021eekr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
